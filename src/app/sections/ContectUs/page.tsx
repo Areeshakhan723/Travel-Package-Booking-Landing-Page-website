@@ -29,7 +29,7 @@ const Page = () => {
       return () => window.removeEventListener("resize", updateScreenSize);
    }, []);
 
-   const handleChange = (e) => {
+   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
       const { name, value } = e.target;
       setFormData({
          ...formData,
@@ -37,7 +37,7 @@ const Page = () => {
       });
    };
 
-   const handleSubmit = (e) => {
+   const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
       e.preventDefault();
       // Validation check for required fields
       const { fullName, email, packageType, arrivalDate } = formData;
