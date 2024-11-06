@@ -21,7 +21,7 @@ import {
   im5,
 } from "../assets/images";
 import facebook from "../assets/icons/facebook.png";
-import instagram from "../assets/icons/instagram.png";
+import instagram from "../assets/icons/Instagram.png";
 import linkedin from "../assets/icons/linkedin.png";
 
 export const cardsdata = [
