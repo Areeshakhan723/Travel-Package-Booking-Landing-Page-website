@@ -16,7 +16,7 @@ const Destinaton = () => {
         </div>
         {/* Buttons */}
         <div className="flex justify-center items-center mt-4 transform transition duration-300 ease-in-out hover:scale-110">
-        <Buttons label={"Book Now"} iconURL={rightarrow} className="w-[256px] h-[74px]"/>
+        <Buttons label={"Book Now"} iconURL={rightarrow} />
         </div>
         
       </div>
