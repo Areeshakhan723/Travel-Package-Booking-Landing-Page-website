@@ -29,7 +29,7 @@ const Page = () => {
       return () => window.removeEventListener("resize", updateScreenSize);
    }, []);
 
-   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement>) => {
       const { name, value } = e.target;
       setFormData({
          ...formData,
