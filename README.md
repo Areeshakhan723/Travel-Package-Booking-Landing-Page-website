@@ -24,6 +24,18 @@ This project showcases a Travel Booking & Packages Landing Page website designed
   ... and more!
 </ul>
 
+# Key Features:
+<ul>
+  <li>
+    Responsive Design: Optimized for a seamless experience on any device.
+  </li>
+  <li>
+    Multi-Page Layout: Transformed a one-page design into a multi-page structure for improved navigation.
+  </li>
+  <li>
+    User-Centric Interface: Focused on a clean and modern UI that aligns with travel and booking themes.
+  </li>
+</ul>
 
 # Check out the Live Demo
 https://tavel-website.vercel.app/
