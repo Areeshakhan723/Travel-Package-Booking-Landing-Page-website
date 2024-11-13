@@ -17,9 +17,7 @@ const Footer = () => {
           <p className=" sm:max-w-sm leading-7 text-base">ADVENTURE</p>
           <div className="max-sm:pt-3 mt-2 w-full max-w-[357px] h-auto font-sans">
             <span>
-              dolor commodo odio laoreet id sollicitudin. nisi maximus Ut
-              malesuada dui sodales. quis sed urna. felis, Donec enim. vitae
-              Nunc cursus nec Ut efficitur. nec
+              Discover new destinations and create unforgettable memories. From scenic landscapes to vibrant cultures, we’re here to guide you on every step of your journey. Let adventure lead the way!
             </span>
           </div>
         </div>
