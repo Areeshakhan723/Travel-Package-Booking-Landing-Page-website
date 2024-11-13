@@ -125,14 +125,14 @@ export const tourguide = [
   {
     imgURL: imgInfo1,
     name: "Margaret March",
-    role: "Forest Guide",
+    role: "City Guide",
     description:
       "Margaret is an experienced forest guide with a deep passion for nature and wildlife.He has spent over 10 years exploring and studying dense forests across multiple continents. Her knowledge of plants, animals, and natural survival skills makes her an invaluable guide for adventurous explorers looking to connect with the wilderness. Join her on an unforgettable journey through the heart of nature.",
   },
   {
     imgURL: imgInfo2,
     name: "Lillian Chou",
-    role: "City Guide",
+    role: "Forest Guide",
     description:
       "Lillian is a dynamic city guide who brings urban landscapes to life with her in-depth knowledge of history, architecture, and local culture. Born and raised in the city, Lillian knows every hidden alley and cultural hotspot. Whether you’re a history buff or a foodie, her tours offer a vibrant mix of insights and experiences that capture the essence of city life. Discover the city from a local's perspective with Lillian.",
   },
